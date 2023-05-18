@@ -6,6 +6,10 @@ Proactive lecturer and research assistant with five years of experience at ESPOL
 
 ## Education
 
+- **Master Student in Computer Science**
+  - *ESPOL Polytechnic University*, Guayaquil, Ecuador
+  - May 2023 - Current
+
 - **Master's Degree in Educational Management**
   - *Espiritu Santo University*, Samborondon, Ecuador
   - October 2020 - December 2021
@@ -13,10 +17,6 @@ Proactive lecturer and research assistant with five years of experience at ESPOL
 - **Bachelor in Electrical Engineering Specialization in Electronics and Industrial Automation**
   - *ESPOL Polytechnic University*, Guayaquil, Ecuador
   - May 2014 - February 2020
-
-- **Technician in Consumer Electronics**
-  - *Simón Bolivar Higher Technical Institute*, Guayaquil, Ecuador
-  - April 2010 - February 2013
 
 ## Research/Project Experience
 
