@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 Proactive lecturer and research assistant with five years of experience at ESPOL Polytechnic University. Participated and supervised different multidisciplinary research projects. Bachelor in Electrical Engineering, specialization in Electronics and Industrial Automation from ESPOL Polytechnic University and  Master in Educational Management from Espiritu Santo University. I have developed a particular interest in the area of Bioengineering and DataScience to which I have dedicated around three years of study, and I would love to advance in this branch of science through doctoral studies at a notable institution. I have always worked as a team, having a fluid relationship with the people who establish the different work areas.
 
 ## Education
